@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+body {
+  background-image: url("https://previews.123rf.com/images/nadianb/nadianb1808/nadianb180800080/105786091-school-and-office-stationery-on-yellow-background-.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#myCanvas{
+  background-color: wheat;
+  border: 10px ridge silver ;
+}
